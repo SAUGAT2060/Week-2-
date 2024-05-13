@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+img{
+    width: 600;
+    
+    height: 400;
+    display: block;
+    margin: auto;
+
+    
+}
+h1{
+     color: blue;
+}
+     .heading{
+        color: green;
+     }
+#head{
+    color: brown;
+}
+p{
+    color: green;
+}
+.table{
+    margin: 0 auto;
+    width: 50%;
+}
+table{
+    border-collapse: collapse;
+    width: 100%; 
+}
+th, td{
+    border: 2px solid black;
+    padding: 12px;
+    text-align:center;
+}
+th{
+    background-color:greenyellow;
+}
